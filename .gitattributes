@@ -1,0 +1,11 @@
+# This file is used to override language statistics
+*.gif binary
+
+*.png binary
+*.min.css linguist-generated
+src/** linguist-detectable
+
+examples/site/** linguist-vendored
+* text=auto
+
+# eof 18b7ff48
